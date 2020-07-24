@@ -1,2 +1,2 @@
 # Ultasonic
-kontrol ultrasonic bith blynk
+Control ultrasonic bith blynk
